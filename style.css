@@ -1,0 +1,28 @@
+#container{
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+h4{
+    color: rgb(4, 86, 58);
+}
+.imagedisplay{
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+#slideimage{
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(52, 52, 243, 0.787);
+    color: white;
+    font-weight: bold;
+}
+#header{
+    background-color: rgba(60, 110, 235, 0.813);
+    color: white;
+}
+#headertext{
+   
+    color: white;
+}
