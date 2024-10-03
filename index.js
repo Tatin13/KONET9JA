@@ -9,7 +9,7 @@ function rollDice(){
     const images = [];
 
     for(let i = 0; i < numOfDice; i++){
-       const value = Math.floor(Math.random() * 150) + 1;
+       const value = Math.floor(Math.random() * 231) + 1;
        values.push(value);
        images.push(`<img style="width:300px;" src="pics/${value}.jpg" alt="Image is missing!">`);
 
